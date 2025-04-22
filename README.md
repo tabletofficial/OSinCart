@@ -10,5 +10,13 @@ function kernelLoader() {
   input(texting;kernel32.sys or Kernel is loading!)
   cartscript {
     /*даём проджекту данные на изменение файлов*/
+    functionloadenter(Start;kernelsys32.dll)
   }
-}```
+}
+```
+Вот такой у нас получился код!
+# OSinCart - 3. Разработка главного меню в ОС
+Пишем код! :)
+```
+functip
+```
